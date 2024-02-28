@@ -17,7 +17,19 @@ header,
     color: #2C3E50;
 }
 .card:hover:after{
-    content: "";
+    content: "\2b";
+    color: white;
+    font-family: "Font Awesome 6 Free";
+    font-size: 5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.486);
 }
 #portfolio-nav a.nav-link{
     color: white;

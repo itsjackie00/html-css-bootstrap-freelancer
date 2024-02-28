@@ -16,6 +16,19 @@ header,
 #contact .fa-star{
     color: #2C3E50;
 }
+#portfolio .solid-line,
+#contact .solid-line{
+    background-color: black;
+}
+.solid-line{
+  background-color: white;
+  padding: 1px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 5px 15px;
+  border-radius: 16px;
+}
 .card:hover:after{
     content: "\2b";
     color: white;

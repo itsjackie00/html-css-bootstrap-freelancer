@@ -5,6 +5,9 @@
 .odd{
     background-color: #1ABC9C;
 }
+.footer-top{
+    background-color: #3A546D ;
+}
 header,
 .footer-bottom{
     background-color: #2C3E50;
@@ -26,4 +29,11 @@ header,
 .avatar-img{
     width: 200px;
     margin: 0 auto;
+}
+.icons{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 5px;
+    width: 30px;
+    height: 30px;
 }

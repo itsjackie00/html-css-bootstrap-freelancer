@@ -9,6 +9,9 @@ header,
 .footer-bottom{
     background-color: #2C3E50;
 }
+#portfolio .fa-star{
+    color: #2C3E50;
+}
 .card:hover:after{
     content: "";
 }

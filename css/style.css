@@ -18,3 +18,8 @@ header,
 #portfolio-nav a.nav-link:hover{
     color: #1ABC9C;
 }
+/* HERO */
+.avatar-img{
+    width: 200px;
+    margin: 0 auto;
+}
